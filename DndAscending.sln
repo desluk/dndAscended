@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DndAscending", "DndAscending\DndAscending.csproj", "{55BA36D6-C50D-4822-96EE-B5C54FCF1E68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRoller", "DiceRoller\DiceRoller.csproj", "{0A8C3327-F113-4FD4-9530-2A54C1421A78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55BA36D6-C50D-4822-96EE-B5C54FCF1E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BA36D6-C50D-4822-96EE-B5C54FCF1E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BA36D6-C50D-4822-96EE-B5C54FCF1E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BA36D6-C50D-4822-96EE-B5C54FCF1E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A8C3327-F113-4FD4-9530-2A54C1421A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A8C3327-F113-4FD4-9530-2A54C1421A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A8C3327-F113-4FD4-9530-2A54C1421A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A8C3327-F113-4FD4-9530-2A54C1421A78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2658B3F3-DEF1-4AB6-A175-2C82AA49AD67}
+	EndGlobalSection
+EndGlobal
